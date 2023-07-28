@@ -7,4 +7,5 @@ blockinfile
 copy
 file
 service 
-
+f1 f2f2 f3
+svc.yml
