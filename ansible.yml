@@ -2,3 +2,6 @@ playbook
 host any
 apt
 get_url
+copy
+file
+service 
