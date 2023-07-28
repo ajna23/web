@@ -14,3 +14,6 @@ svc.yml
 init containers
 daemonset set, pod
 bbbbbbbb
+autoscaling 
+load balancing 
+ebs
