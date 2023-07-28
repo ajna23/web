@@ -2,3 +2,5 @@ playbook
 host any
 apt
 get_url
+lineinfile 
+blockinfile
