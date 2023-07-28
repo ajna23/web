@@ -3,3 +3,6 @@ secrets
 aws
 ec2
 t2 t5
+rds
+s3 storage
+elk 
