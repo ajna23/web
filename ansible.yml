@@ -1,3 +1,4 @@
-playbook 
+playbook
+host any
 apt
 get_url
