@@ -3,3 +3,5 @@ secrets
 aws
 ec2
 t2 t5
+helm charts 
+templates
